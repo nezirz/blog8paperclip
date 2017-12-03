@@ -6,9 +6,12 @@ p
 p
   strong Body:
   = @post.body
-
+  br
+  = image_tag @post.image
 
 p
+  h4
+    | Comments:
   - @post.comments.each do |c|
     = c.body
     br

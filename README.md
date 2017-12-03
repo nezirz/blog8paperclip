@@ -1,6 +1,6 @@
 # README
 
-In this code, I am adding gem devise to existing basic blog built in 8 minutes.
+In this code, I am adding gem paperclip for uploading images to existing basic blog built in 8 minutes.
 Things you may want to cover:
 
 * Ruby version
@@ -14,6 +14,8 @@ Things you may want to cover:
 
 * devise version
   4.3.0  
+* paperclip  
+  5.0.0
   
 # Blog8minutes
 Build Blog in 8 minutes with Ruby On Rails.

@@ -1,4 +1,4 @@
-= form_for @post do |f|
+= form_for @post, html: {multipart: true} do |f|
   - if @post.errors.any?
     #error_explanation
       h2 = "#{pluralize(@post.errors.count, "error")} prohibited this post from being saved:"
@@ -12,7 +12,9 @@
   .field
     = f.label :body
     = f.text_area :body
-
+  .field
+    = f.label :image
+    = f.file_field :image
   .field
     = f.hidden_field :user_id, value: current_user.id
   .actions = f.submit
