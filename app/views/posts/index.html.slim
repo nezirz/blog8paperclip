@@ -15,8 +15,9 @@ table
         td = post.title
         td = post.body
         td = link_to 'Show', post
-        td = link_to 'Edit', edit_post_path(post)
-        td = link_to 'Destroy', post, data: { confirm: 'Are you sure?' }, method: :delete
+        -if current_user.id == post.user_id
+          td = link_to 'Edit', edit_post_path(post)
+          td = link_to 'Destroy', post, data: { confirm: 'Are you sure?' }, method: :delete
 
 br
 
