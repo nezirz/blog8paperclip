@@ -1,7 +1,6 @@
 # README
 
 In this code, I am adding gem paperclip for uploading images to existing basic blog built in 8 minutes.
-Things you may want to cover:
 
 * Ruby version
   2.4.2
@@ -14,7 +13,8 @@ Things you may want to cover:
 
 * devise version
   4.3.0  
-* paperclip  
+  
+* paperclip version
   5.0.0
   
 # Blog8minutes
@@ -30,4 +30,4 @@ Visit our site: https://www.rubyonrails.ba/ <br>
 Our fb page: https://www.facebook.com/rubyonrails/
 <br>
 <br>
-Youtube: https://www.youtube.com/watch?v=Z1n80gOcwRM
+Youtube: https://www.youtube.com/watch?v=3WzMyj5ublA

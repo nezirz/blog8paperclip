@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63154664-3efb-47c8-973a-9e5e6933984c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171203211254_add_attachment_image_to_posts.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/system/posts/images/000/000/001/original/stari_most.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/system/posts/images/000/000/001/thumb/stari_most.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/system/posts/images/000/000/002/original/panonska_jezera.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/system/posts/images/000/000/002/thumb/panonska_jezera.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog 99.iml" afterPath="$PROJECT_DIR$/.idea/blog 99.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/app/models/post.rb" afterPath="$PROJECT_DIR$/app/models/post.rb" />
-      <change beforePath="$PROJECT_DIR$/app/views/posts/_form.html.slim" afterPath="$PROJECT_DIR$/app/views/posts/_form.html.slim" />
-      <change beforePath="$PROJECT_DIR$/app/views/posts/show.html.slim" afterPath="$PROJECT_DIR$/app/views/posts/show.html.slim" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="97">
-                <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <first_editor relative-caret-position="233">
+                <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -370,12 +356,12 @@
       <updated>1512225700187</updated>
       <workItem from="1512225701261" duration="2329000" />
       <workItem from="1512302699517" duration="2056000" />
-      <workItem from="1512335507041" duration="760000" />
+      <workItem from="1512335507041" duration="1533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5145000" />
+    <option name="totallyTimeSpent" value="5918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="21" width="1315" height="879" extended-state="4" />
@@ -702,8 +688,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="97">
-            <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <first_editor relative-caret-position="233">
+            <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
             <folding />
           </first_editor>
           <second_editor />
