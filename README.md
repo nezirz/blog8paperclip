@@ -1,8 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+In this code, I am adding gem devise to existing basic blog built in 8 minutes.
 Things you may want to cover:
 
 * Ruby version
@@ -10,6 +8,12 @@ Things you may want to cover:
 
 * Rails version
   5.1.4
+  
+* slim-rails version
+  3.1.0  
+
+* devise version
+  4.3.0  
   
 # Blog8minutes
 Build Blog in 8 minutes with Ruby On Rails.
@@ -22,4 +26,6 @@ So , here is video how I build Rails blog for 8 minutes using templating <br>
 gem slim-rails and rails 5.1.4 version and ruby 2.4.2 version.<br> 
 Visit our site: https://www.rubyonrails.ba/ <br>
 Our fb page: https://www.facebook.com/rubyonrails/
-
+<br>
+<br>
+Youtube: https://www.youtube.com/watch?v=Z1n80gOcwRM
